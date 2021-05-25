@@ -1,0 +1,7 @@
+I would like to see the wysiwyg editor for the field in the forms to have more functionality. I wanted to attach an image to show what I have done myself, which I will have to constantly 
+redo when the plugin gets updated. But I can't add images here. I can't believe we don't already have at least the basics. Or can you please add a hook or something so that we can add buttons to it? Thanks. 
+Also, PLEASE add an option to the forms to redirect to the new post created!!! I have tried so many things and NOTHING is working. Thanks! What I would like added is the following...
+
+'toolbar1' => 'fontselect,|,fontsizeselect,|,forecolor,backcolor,|,bold,italic,underline,|,alignleft,aligncenter,alignright,|,link,unlink,|,undo,redo',
+
+The only ones not working that I added was the media button set to true, and the forecolor and backcolor. None of those work. 
